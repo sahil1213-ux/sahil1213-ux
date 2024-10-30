@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/chat.svg)](https://www.linkedin.com/in/izammohammed/) 
+[![](https://github.com/sahil1213-ux/sahil1213-ux/blob/main/chat.svg)](https://www.linkedin.com/in/sahilanand-tech/) 
 
-[![Visit My LinkedIn Profile](https://github.com/izam-mohammed/izam-mohammed/blob/feature/chat.svg)](https://www.linkedin.com/in/yourprofile/)
-
-
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/izammohammed/)
+[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/sahilanand-tech/)
 
 <!--
 **sahil1213-ux/sahil1213-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
