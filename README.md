@@ -1,8 +1,6 @@
-## Hi there 👋
-
 [![](https://github.com/sahil1213-ux/sahil1213-ux/blob/main/chat.svg)](https://www.linkedin.com/in/sahilanand-tech/) 
 
-[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/sahilanand-tech/)
+[![](https://github.com/sahil1213-ux/sahil1213-ux/blob/main/grid-snake.svg)](https://www.linkedin.com/in/sahilanand-tech/)
 
 <!--
 **sahil1213-ux/sahil1213-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
