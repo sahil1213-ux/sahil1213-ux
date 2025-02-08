@@ -256,8 +256,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">A resilient Data Analyst ✨</text>
-    <text x="15" y="50">Finding useful insights from complex datasets</text>
+    <text x="15" y="27">A resilient Front-end Developer ✨</text>
+    <text x="15" y="50">Designing visually attractive and responsive websites</text>
   </g>
 
   <!-- typing 3 -->
@@ -281,7 +281,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Fall in love with maths and statistics ❤️</text>    
+<!--     <text x="15" y="27">Fall in love with maths and statistics ❤️</text>     -->
     <text x="15" y="50">Getting growth with focus and dedication</text>
   </g>
 
@@ -305,10 +305,10 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Data Enthusiast</text>
-  </g>
+<!--   <g transform="translate(10, 192)" class="msg-4"> -->
+<!--     <rect width="200" height="42" rx="18.0355" class="bubble" /> -->
+<!--     <text x="15" y="27">Data Enthusiast</text> -->
+<!--   </g> -->
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
