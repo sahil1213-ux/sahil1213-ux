@@ -20,6 +20,7 @@ I'm a passionate **Data Analyst** with strong presentation skills and a love for
 ![Pandas](https://img.shields.io/badge/-PANDAS-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-MATPLOTLIB-3C78A9?logo=matplotlib&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-SEABORN-66A1C8?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-SCIKIT--LEARN-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![Excel](https://img.shields.io/badge/-EXCEL-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
