@@ -31,4 +31,5 @@ I'm a passionate **Data Analyst** with strong presentation skills and a love for
 ![Streamlit](https://img.shields.io/badge/-STREAMLIT-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 
 📂 **Explore My Data Science & Analytics Projects**  
-Check out my latest projects showcasing real-world data analysis, automation, and visualization: [View Projects »](#)
+Check out my latest projects showcasing real-world data analysis, automation, and visualization: [View Projects »](https://github.com/sahil1213-ux/Data-Science-Project)
+
