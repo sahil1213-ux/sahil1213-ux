@@ -24,11 +24,12 @@ I'm a passionate **Data Analyst** with strong presentation skills and a love for
 ![Excel](https://img.shields.io/badge/-EXCEL-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MYSQL-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20SERVER-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![RDBMS](https://img.shields.io/badge/-RDBMS-073642?style=for-the-badge)
-
 ![Snowflake](https://img.shields.io/badge/-SNOWFLAKE-01B5E2?logo=snowflake&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-POWER%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/-STREAMLIT-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![AutoML](https://img.shields.io/badge/-AUTOML-0B8DEB?logo=google&logoColor=white&style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/-BIGQUERY-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 📂 **Explore My Data Science & Analytics Projects**  
 Check out my latest projects showcasing real-world data analysis, automation, and visualization: [View Projects »](https://github.com/sahil1213-ux/Data-Science-Project)
