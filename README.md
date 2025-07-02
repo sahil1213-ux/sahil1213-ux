@@ -26,7 +26,6 @@ I'm a passionate **Data Analyst** with strong presentation skills and a love for
 ![Seaborn](https://img.shields.io/badge/-SEABORN-66A1C8?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20SERVER-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/-SNOWFLAKE-01B5E2?logo=snowflake&logoColor=white&style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/-BIGQUERY-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-66A1C8?style=for-the-badge)
 
 
