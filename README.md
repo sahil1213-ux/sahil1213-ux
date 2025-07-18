@@ -25,6 +25,7 @@ I'm a passionate **Data Analyst** with strong presentation skills and a love for
 ![Seaborn](https://img.shields.io/badge/-SEABORN-66A1C8?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/-SQL%20SERVER-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/-SNOWFLAKE-01B5E2?logo=snowflake&logoColor=white&style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/-EXCEL-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 
 📂 **Explore My Data Science & Analytics Projects**  
 Check out my latest projects showcasing real-world data analysis, automation, and visualization: [View Projects »](https://github.com/sahil1213-ux/Data-Science-Project)
